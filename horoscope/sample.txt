@@ -1,0 +1,26 @@
+  {
+    "date": "2025-03-29",
+    "vara": "Saturday",
+    "tithi": "Amavasya",
+    "nakshatra": "Uttara Bhadrapada",
+    "rashi": "Aries",
+    "planets": {
+      "7": [
+        {"name": "Sun", "degree": 16.45},
+        {"name": "Venus", "degree": 23.14}
+      ],
+      "4": [
+        {"name": "Moon", "degree": 2.78}
+      ],
+      "6": [
+        {"name": "Mercury", "degree": 12.34},
+        {"name": "Rahu", "degree": 4.02}
+      ],
+      "8": [
+        {"name": "Jupiter", "degree": 9.87}
+      ],
+      "12": [
+        {"name": "Ketu", "degree": 4.02}
+      ]
+    }
+  },
