@@ -1,3 +1,5 @@
 horoscope/.horoscope-venv
 horoscope/.env
 horoscope/.env.example
+whatsapp-trigger/node_modules
+openai-response/response.py
