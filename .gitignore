@@ -3,3 +3,6 @@ horoscope/.env
 horoscope/.env.example
 whatsapp-trigger/node_modules
 openai-response/response.py
+openai-response/.env
+openai-response/.res
+openai-response/__pycache__
